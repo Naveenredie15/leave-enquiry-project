@@ -1,22 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-
-</head>
-<body>
-    <div class="form-group">
-        <a href="/project/student-login.php" class="btn btn-primary">Student-Login</a>
-    </div>
-    <div class="form-group">
-        <a  href="/project/faculty-login.php" class="btn btn-info">Faculty-Login</a>
-    </div>
-
-    
-</body>
-</html>
+<?php
+include_once('./index.html');
+?>

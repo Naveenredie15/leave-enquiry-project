@@ -102,7 +102,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 <body>
     <div class="wrapper">
         <div class="form-group">
-                <a type="button" class="btn btn-success" href="/project/index.php">Back</a>
+                <a type="button" class="btn btn-success" href="/project/index.html">Back</a>
         </div>
         <h2>Login</h2>
         <p>Please fill in your credentials to login.</p>
